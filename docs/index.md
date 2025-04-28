@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# 👋 Olá!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Sou Paulo, desenvolvedor de software desde 2013 e, casado com [Talita](https://www.instagram.com/talita.eline/) e pai de cinco filhos.  
+Atualmente, trabalho na [Sinqia](https://sinqia.com.br/), contribuindo com soluções para o setor financeiro.  
+Também sou fundador da [PYO](https://pyo.com.br/), empresa focada em soluções tecnológicas na área tributária.
 
-## Commands
+Este blog é meu espaço pessoal para compartilhar ideias, tutoriais e aprendizados que venho acumulando ao longo da minha jornada profissional.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+📧 [Entre em contato comigo](mailto:prodrigues1912@gmail.com)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---

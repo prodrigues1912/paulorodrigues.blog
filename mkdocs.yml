@@ -1,6 +1,29 @@
 site_name: Paulo Rodrigues
-site_description: My personal website
+site_description: Blog pessoal de Paulo Rodrigues, desenvolvedor de software. Conteúdos sobre programação, tecnologia, carreira e aprendizado contínuo.
 site_author: Paulo Rodrigues
-site_url: https://prodrigues1912.github.io
+site_url: https://paulorodrigues.blog
 theme:
   name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  font:
+    text: Helvetica
+    code: JetBrains Mono
+  language: "pt-BR"
+plugins:
+  - blog:
+      blog_dir: .
+  - search

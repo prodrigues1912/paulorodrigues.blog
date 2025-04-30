@@ -20,7 +20,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   font:
-    text: Helvetica
+    text: Roboto
     code: JetBrains Mono
   language: "pt-BR"
 plugins:
